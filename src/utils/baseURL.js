@@ -1,5 +1,5 @@
 const getBaseUrl = () => {
-    return "https://teason-mike-back-end.vercel.app"
+    return "https://www.teasonmike.io.vn/"
 }
 
 export default getBaseUrl;
