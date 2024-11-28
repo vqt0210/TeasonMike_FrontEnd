@@ -1,5 +1,5 @@
 const getBaseUrl = () => {
-    return "http://localhost:5000"
+    return "https://teason-mike-back-end.vercel.app"
 }
 
 export default getBaseUrl;
